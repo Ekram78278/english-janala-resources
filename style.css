@@ -7,3 +7,8 @@
       font-family: "Hind siliguri", sans-serif;
 
 }
+
+.active{
+    background-color: #422AD5;
+    color: white;
+}
